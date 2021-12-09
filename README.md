@@ -1,3 +1,3 @@
 _**Application Screens**_
 
-![](./assets/img/(app.png)
+![](./assets/img/app.png)
